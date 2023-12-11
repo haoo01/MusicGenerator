@@ -15,14 +15,7 @@
 
 
 ## Installation
-please install these necessary libraries to run the project:
-numpy\
-pypianoroll\
-matplotlib\
-streamlit\
-pretty_midi\
-mido\
-pygame\
+please install these necessary libraries to run the project: numpy, pypianoroll, matplotlib, streamlit, pretty_midi, mido, pygame.
 
 ## Usage
 Open terminal and enter: streamlit run UI.py to run the model, generate music, and interacte with the Streamlit interface.
