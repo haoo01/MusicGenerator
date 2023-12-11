@@ -15,7 +15,8 @@
 
 ## Dependencies Installation
 To make sure all these necessary libraries are in place to run this project: numpy, pypianoroll, matplotlib, streamlit, pretty_midi, mido, pygame,torch, please run this command in terminal first:
-pip install numpy pypianoroll matplotlib streamlit pretty_midi mido pygame torch
+
+$ pip install numpy pypianoroll matplotlib streamlit pretty_midi mido pygame torch
 
 ## Usage
 Open terminal and enter: streamlit run UI.py to run the model, generate music, and interacte with the Streamlit interface.
