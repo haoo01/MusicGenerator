@@ -13,9 +13,9 @@
 
 5. Model_module / Model_training_dance: Comprises the training scripts and modules specifically for the dance genre, including the definition of the neural network blocks and the training loop with gradient penalty calculation.
 
-
 ## Dependencies Installation
-please install these necessary libraries to run the project: numpy, pypianoroll, matplotlib, streamlit, pretty_midi, mido, pygame.
+To make sure all these necessary libraries are in place to run this project: numpy, pypianoroll, matplotlib, streamlit, pretty_midi, mido, pygame,torch, please run this command in terminal first:
+pip install numpy pypianoroll matplotlib streamlit pretty_midi mido pygame torch
 
 ## Usage
 Open terminal and enter: streamlit run UI.py to run the model, generate music, and interacte with the Streamlit interface.
