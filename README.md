@@ -14,7 +14,7 @@
 5. Model_module / Model_training_dance: Comprises the training scripts and modules specifically for the dance genre, including the definition of the neural network blocks and the training loop with gradient penalty calculation.
 
 
-## Installation
+## Dependencies Installation
 please install these necessary libraries to run the project: numpy, pypianoroll, matplotlib, streamlit, pretty_midi, mido, pygame.
 
 ## Usage
