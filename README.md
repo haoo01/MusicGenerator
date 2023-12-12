@@ -3,7 +3,7 @@
 "Music Generation with Deep Learning" harnesses AI, specifically GANs, to create multi-track music. Led by the MSSP Team, this project explores AI's capabilities in generating aesthetically pleasing compositions.
 
 ## Description
-1. Data: Includes the Lakh Pianoroll Dataset under lpd_5/lpd_5_cleansed for training the model; cleansed_ids.txt and Id_lists_lastfm file, to reference the piano-rolls data of the wanted music genres.
+1. Data: Includes the Lakh Pianoroll Dataset under lpd_5/lpd_5_cleansed for training the model; cleansed_ids.txt and Id_lists_lastfm folder, to reference the piano-rolls data of the wanted music genres.
 
 2. Models: Contains the trained state dictionaries for the Generative Adversarial Network (GAN) models. There are separate model files for the discriminator and generator for various music genres such as classic, dance, indie, love, and rock.
 
